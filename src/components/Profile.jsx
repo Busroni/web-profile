@@ -14,9 +14,10 @@ class Profile extends React.Component {
                   Hello, I'm Busroni
                 </h1>
                 <p className="text-sm mb-10  sm:text-base md:text-lg leading-relaxed">
-                  I am a software developer focusing on frontend development.  
-                  I am a software developer focusing on frontend development.  
-                  I am a software developer focusing on frontend development.  
+                  I am a Front-End Developer with a strong foundation in Informatics, specializing in JavaScript, ReactJS, Laravel, and UI/UX design.
+                   I have experience working with cross-functional teams using Agile methodologies like SCRUM to develop web-based solutions.
+                    Passionate about building intuitive and efficient user interfaces while ensuring optimal performance.
+                     Adaptable, problem-solving oriented, and committed to delivering high-quality projects.  
                 </p>
                 <div className="bg-slate-600 text items-center font-bold flex justify-center p-3 w-80 rounded-2xl text-white">
                     <a>Linked.in/busroni-a.s</a>

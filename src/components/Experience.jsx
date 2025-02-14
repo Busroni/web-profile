@@ -8,17 +8,17 @@ class Experience extends React.Component{
         <div className="Experience bg-slate-600 p-6 md:p-15">
             <h1 className="font-black text-4xl md:text-5xl pb-5 mb-7">Experience</h1>
             <h1 className="text-2xl font-extrabold">
-            <span className="mr-3">&#9679;</span> 2021-2022
+            <span className="mr-3">&#9679;</span>May 2021 - Sept/2022
             </h1>
-            <h2 className="mb-5">Ditalent by Kominfo. IT Support Google</h2>
+            <h2 className="mb-5">Backend Engineer. GlobalIntermedia,Yogyakarta</h2>
             <h1 className="text-2xl font-extrabold">
-            <span className="mr-3">&#9679;</span> 2021-2022
+            <span className="mr-3">&#9679;</span> Feb 2020 - Dec 2021
             </h1>
-            <h2 className="mb-5">Ditalent by Kominfo. IT Support Google</h2>
+            <h2 className="mb-5">Frontend Engineer. ITClub UPN 'Veteran' Yogyakarta, Yogyakarta</h2>
             <h1 className="text-2xl font-extrabold">
-            <span className="mr-3">&#9679;</span> 2021-2022
+            <span className="mr-3">&#9679;</span> Mar 2022 - Jul 2022
             </h1>
-            <h2 className="mb-5">Ditalent by Kominfo. IT Support Google</h2>
+            <h2 className="mb-5">Creative Staff. Porsimnas WIMAYA UPN Veteran Yogyakarta</h2>
         </div>
 
         <div className="Language bg-slate-500 p-6 md:p-20">

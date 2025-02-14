@@ -25,7 +25,7 @@ render() {
                 <HobiesInterest />
             </div>
             <div className="bg-slate-950 text-white text-center p-5">
-                <h1>Copyright Busroni Ahmad Safrizal</h1>
+                <h1>&#169; Busroni Ahmad Safrizal</h1>
             </div>
             
 
